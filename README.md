@@ -1,2 +1,3 @@
 # sahayak-
-i am  a btech ece student
+sahayak is an app
+
